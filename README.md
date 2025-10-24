@@ -3,7 +3,7 @@
 Script simples e eficiente para **organizar automaticamente** a pasta *Downloads* por tipo de arquivo.  
 Ele identifica a extensão de cada arquivo e move para pastas como **Imagens**, **Documentos**, **Vídeos**, **Músicas**, **Compactados** e **Outros** (personalizável).
 
-![Explorador de Arquivos](../Organizador%20de%20Pastas/Captura%20de%20tela%202025-10-23%20164945.png)
+<img src="Captura de tela 2025-10-23 164945.png" alt="Explorador de Arquivos">
 
 ---
 
