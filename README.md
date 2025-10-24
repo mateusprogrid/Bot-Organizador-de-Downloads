@@ -1,4 +1,4 @@
-# Organizador de Downloads (Python) 🐍
+# ZenFolder (Python) 🐍
 
 Script simples e eficiente para **organizar automaticamente** a pasta *Downloads* por tipo de arquivo.  
 Ele identifica a extensão de cada arquivo e move para pastas como **Imagens**, **Documentos**, **Vídeos**, **Músicas**, **Compactados** e **Outros** (personalizável).
